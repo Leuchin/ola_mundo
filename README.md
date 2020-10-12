@@ -1,4 +1,4 @@
 # Olá, Mundo!
- primeiro repositorio meu
+ primeiro repositorio meu de git e github (sim eu denovo aqui)
 
-AAABbbb
+Eu esqueci como usava '-' por isso voltei
